@@ -1,0 +1,12 @@
+# Data, downloaded separately (see README)
+images/
+external/
+Dataset.csv
+BBox.csv
+# Everything the code writes
+models/
+figures/
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*Zone.Identifier
