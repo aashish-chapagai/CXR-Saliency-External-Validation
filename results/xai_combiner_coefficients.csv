@@ -1,0 +1,5 @@
+scope,model,abs_margin,tta_gap,region_enrichment
+Flagged findings,Margin + TTA,0.46908723054838997,-0.051548631217997576,
+Flagged findings,Margin + TTA + anatomy,0.46777894146039184,-0.05388248322295969,-0.07066031166391785
+Unflagged findings,Margin + TTA,2.0355804295356505,-0.06181123867068756,
+Unflagged findings,Margin + TTA + anatomy,2.0232315655528463,-0.05987896153263145,-0.01949236253830767

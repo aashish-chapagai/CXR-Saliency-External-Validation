@@ -1,0 +1,38 @@
+{
+  "DenseNet-121": {
+    "Macro ROC-AUC": 0.8468889474260797,
+    "Micro ROC-AUC": 0.8891883864877361,
+    "Macro PR-AUC": 0.2813057232262271,
+    "Hamming loss": 0.07212538766537117,
+    "Macro F1": 0.34149588879169074,
+    "Micro F1": 0.3920919844486723,
+    "Macro precision": 0.3193075747683558,
+    "Macro recall": 0.38997190417609334,
+    "Micro precision": 0.34738847901499975,
+    "Micro recall": 0.45
+  },
+  "Random forest": {
+    "Macro ROC-AUC": 0.8402963532744913,
+    "Micro ROC-AUC": 0.8881255183359938,
+    "Macro PR-AUC": 0.28400697738213043,
+    "Hamming loss": 0.07696711550792343,
+    "Macro F1": 0.3463761847951506,
+    "Micro F1": 0.389464123524069,
+    "Macro precision": 0.31213773858926247,
+    "Macro recall": 0.4153298998155276,
+    "Micro precision": 0.33006377831537276,
+    "Micro recall": 0.4749367088607595
+  },
+  "Linear SVM": {
+    "Macro ROC-AUC": 0.8260787070851022,
+    "Micro ROC-AUC": 0.858603537330934,
+    "Macro PR-AUC": 0.2392667712978829,
+    "Hamming loss": 0.08111202711367592,
+    "Macro F1": 0.3115233344097782,
+    "Micro F1": 0.3747415140969385,
+    "Macro precision": 0.27418726856678494,
+    "Macro recall": 0.3857978679937821,
+    "Micro precision": 0.3114781587993628,
+    "Micro recall": 0.47025316455696203
+  }
+}

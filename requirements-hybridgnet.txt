@@ -1,0 +1,15 @@
+# HybridGNet environment, Python 3.12: step 5 only, on the CPU
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0
+torch_geometric==2.4.0
+numpy==2.2.6
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+opencv-python-headless==5.0.0.93
+pydicom==3.0.2
+pylibjpeg==2.1.0
+pylibjpeg-openjpeg==2.6.0
+pillow==12.3.0
+matplotlib==3.11.2
+ipykernel

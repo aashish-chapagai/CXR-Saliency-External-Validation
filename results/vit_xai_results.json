@@ -1,0 +1,3213 @@
+{
+  "classification_transfer": [
+    {
+      "dataset": "NIH",
+      "finding": "Atelectasis",
+      "metric": "AUROC",
+      "value": 0.8232402817764154,
+      "low": 0.8120250302204007,
+      "high": 0.8329399912418811,
+      "positives": 2251
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Atelectasis",
+      "metric": "Sensitivity",
+      "value": 0.4948911594846735,
+      "low": 0.46465923188815605,
+      "high": 0.5228807030587832,
+      "positives": 2251
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Atelectasis",
+      "metric": "Specificity",
+      "value": 0.8934790379410713,
+      "low": 0.8848392260829556,
+      "high": 0.9023840631341797,
+      "positives": 2251
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Cardiomegaly",
+      "metric": "AUROC",
+      "value": 0.90774909642431,
+      "low": 0.8917359968616907,
+      "high": 0.9240579045163216,
+      "positives": 540
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Cardiomegaly",
+      "metric": "Sensitivity",
+      "value": 0.4444444444444444,
+      "low": 0.3678675233760451,
+      "high": 0.5250760972857397,
+      "positives": 540
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Cardiomegaly",
+      "metric": "Specificity",
+      "value": 0.9696628158166619,
+      "low": 0.9633946635785068,
+      "high": 0.9753194527253989,
+      "positives": 540
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Consolidation",
+      "metric": "AUROC",
+      "value": 0.7973405305325065,
+      "low": 0.7803510349813092,
+      "high": 0.8137398170480621,
+      "positives": 847
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Consolidation",
+      "metric": "Sensitivity",
+      "value": 0.2857142857142857,
+      "low": 0.2480985063950815,
+      "high": 0.3274570382421181,
+      "positives": 847
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Consolidation",
+      "metric": "Specificity",
+      "value": 0.9404393195787869,
+      "low": 0.9312306097708144,
+      "high": 0.9488541420706232,
+      "positives": 847
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Edema",
+      "metric": "AUROC",
+      "value": 0.9093163915071516,
+      "low": 0.8963933793334825,
+      "high": 0.9226241440897176,
+      "positives": 484
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Edema",
+      "metric": "Sensitivity",
+      "value": 0.3202479338842975,
+      "low": 0.2665174667516852,
+      "high": 0.37138741583488777,
+      "positives": 484
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Edema",
+      "metric": "Specificity",
+      "value": 0.976440281030445,
+      "low": 0.9717042289161273,
+      "high": 0.98073122598111,
+      "positives": 484
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Effusion",
+      "metric": "AUROC",
+      "value": 0.8899989997512896,
+      "low": 0.880665820730145,
+      "high": 0.8987894985627456,
+      "positives": 2618
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Effusion",
+      "metric": "Sensitivity",
+      "value": 0.6031321619556914,
+      "low": 0.5688936021410557,
+      "high": 0.6345617797373341,
+      "positives": 2618
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Effusion",
+      "metric": "Specificity",
+      "value": 0.9244900083263947,
+      "low": 0.91638158504113,
+      "high": 0.9330049026866152,
+      "positives": 2618
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Emphysema",
+      "metric": "AUROC",
+      "value": 0.9154534123024123,
+      "low": 0.8976772893389531,
+      "high": 0.9300237654457945,
+      "positives": 502
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Emphysema",
+      "metric": "Sensitivity",
+      "value": 0.4860557768924303,
+      "low": 0.41303485162180814,
+      "high": 0.5521944030012891,
+      "positives": 502
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Emphysema",
+      "metric": "Specificity",
+      "value": 0.9849053065816613,
+      "low": 0.9812986720422451,
+      "high": 0.9878926143876267,
+      "positives": 502
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Fibrosis",
+      "metric": "AUROC",
+      "value": 0.7989700874001072,
+      "low": 0.7741894008846607,
+      "high": 0.8239929300853961,
+      "positives": 332
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Fibrosis",
+      "metric": "Sensitivity",
+      "value": 0.20180722891566266,
+      "low": 0.15075766871165644,
+      "high": 0.25797335203366056,
+      "positives": 332
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Fibrosis",
+      "metric": "Specificity",
+      "value": 0.971584038694075,
+      "low": 0.9676896854365913,
+      "high": 0.9752859554913863,
+      "positives": 332
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Infiltration",
+      "metric": "AUROC",
+      "value": 0.7119675441578186,
+      "low": 0.6999574824625737,
+      "high": 0.7235374939764939,
+      "positives": 3893
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Infiltration",
+      "metric": "Sensitivity",
+      "value": 0.4672489082969432,
+      "low": 0.4335604270966113,
+      "high": 0.5014323995800873,
+      "positives": 3893
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Infiltration",
+      "metric": "Specificity",
+      "value": 0.8238113817512959,
+      "low": 0.8076483365588247,
+      "high": 0.8395232660547813,
+      "positives": 3893
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Lesion",
+      "metric": "AUROC",
+      "value": 0.7684571003773101,
+      "low": 0.7528609882588873,
+      "high": 0.784595288182141,
+      "positives": 2197
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Lesion",
+      "metric": "Sensitivity",
+      "value": 0.36367774237596723,
+      "low": 0.33361422460444884,
+      "high": 0.39752611379039543,
+      "positives": 2197
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Lesion",
+      "metric": "Specificity",
+      "value": 0.9477516932321638,
+      "low": 0.9414187020661615,
+      "high": 0.9535864136856059,
+      "positives": 2197
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pleural thickening",
+      "metric": "AUROC",
+      "value": 0.8114117079500411,
+      "low": 0.790712161366616,
+      "high": 0.8311757372039491,
+      "positives": 692
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pleural thickening",
+      "metric": "Sensitivity",
+      "value": 0.27890173410404623,
+      "low": 0.22725892528524108,
+      "high": 0.3288791955481108,
+      "positives": 692
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pleural thickening",
+      "metric": "Specificity",
+      "value": 0.966370258253713,
+      "low": 0.9614736684033905,
+      "high": 0.9709053425196544,
+      "positives": 692
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pneumonia",
+      "metric": "AUROC",
+      "value": 0.7790661794068175,
+      "low": 0.7487445202251118,
+      "high": 0.8084858351980263,
+      "positives": 276
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pneumonia",
+      "metric": "Sensitivity",
+      "value": 0.1956521739130435,
+      "low": 0.14869627207715622,
+      "high": 0.2484048561779434,
+      "positives": 276
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pneumonia",
+      "metric": "Specificity",
+      "value": 0.9660450876704704,
+      "low": 0.9601137162639043,
+      "high": 0.9713900189509507,
+      "positives": 276
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pneumothorax",
+      "metric": "AUROC",
+      "value": 0.8806515766513445,
+      "low": 0.8625849782679569,
+      "high": 0.8971870471139548,
+      "positives": 940
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pneumothorax",
+      "metric": "Sensitivity",
+      "value": 0.4595744680851064,
+      "low": 0.40410249224811845,
+      "high": 0.5152136092191387,
+      "positives": 940
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Pneumothorax",
+      "metric": "Specificity",
+      "value": 0.9628122906097444,
+      "low": 0.9561901232909958,
+      "high": 0.9684497670374332,
+      "positives": 940
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Macro average",
+      "metric": "AUROC",
+      "value": 0.8328019090197936,
+      "low": 0.8277291062623444,
+      "high": 0.8383791581997461,
+      "positives": 15572
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Macro average, shared with CheXpert",
+      "metric": "AUROC",
+      "value": 0.8444775195533931,
+      "low": 0.8385461230116004,
+      "high": 0.8507497706655415,
+      "positives": 10153
+    },
+    {
+      "dataset": "NIH",
+      "finding": "Macro average, shared with VinDr-CXR",
+      "metric": "AUROC",
+      "value": 0.816885310442796,
+      "low": 0.8115074597007187,
+      "high": 0.8229611159941561,
+      "positives": 14586
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Atelectasis",
+      "metric": "AUROC",
+      "value": 0.8228798547646535,
+      "low": 0.7901271050571134,
+      "high": 0.8525477784455597,
+      "positives": 233
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Atelectasis",
+      "metric": "Sensitivity",
+      "value": 0.6995708154506438,
+      "low": 0.6377594846098783,
+      "high": 0.7530376868096166,
+      "positives": 233
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Atelectasis",
+      "metric": "Specificity",
+      "value": 0.7946611909650924,
+      "low": 0.7586848724398131,
+      "high": 0.8326452454644232,
+      "positives": 233
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Cardiomegaly",
+      "metric": "AUROC",
+      "value": 0.8296000000000001,
+      "low": 0.7947505822971946,
+      "high": 0.8598074743897648,
+      "positives": 220
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Cardiomegaly",
+      "metric": "Sensitivity",
+      "value": 0.11818181818181818,
+      "low": 0.07587346998658617,
+      "high": 0.16511444656986346,
+      "positives": 220
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Cardiomegaly",
+      "metric": "Specificity",
+      "value": 0.996,
+      "low": 0.9899183345304949,
+      "high": 1.0,
+      "positives": 220
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Consolidation",
+      "metric": "AUROC",
+      "value": 0.8458668126072787,
+      "low": 0.800198239898891,
+      "high": 0.885857045678951,
+      "positives": 61
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Consolidation",
+      "metric": "Sensitivity",
+      "value": 0.5573770491803278,
+      "low": 0.43394654088050316,
+      "high": 0.6774330235101148,
+      "positives": 61
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Consolidation",
+      "metric": "Specificity",
+      "value": 0.8831562974203339,
+      "low": 0.857131968641115,
+      "high": 0.9079759227900693,
+      "positives": 61
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Edema",
+      "metric": "AUROC",
+      "value": 0.7557637384621751,
+      "low": 0.7074030927114962,
+      "high": 0.7989513748313091,
+      "positives": 121
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Edema",
+      "metric": "Sensitivity",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "positives": 121
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Edema",
+      "metric": "Specificity",
+      "value": 1.0,
+      "low": 1.0,
+      "high": 1.0,
+      "positives": 121
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Effusion",
+      "metric": "AUROC",
+      "value": 0.9043589385624846,
+      "low": 0.8809575030494687,
+      "high": 0.9278971400950197,
+      "positives": 169
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Effusion",
+      "metric": "Sensitivity",
+      "value": 0.6568047337278107,
+      "low": 0.5792602695763799,
+      "high": 0.7248862756484707,
+      "positives": 169
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Effusion",
+      "metric": "Specificity",
+      "value": 0.9219600725952813,
+      "low": 0.8989129598399498,
+      "high": 0.9440631630488004,
+      "positives": 169
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Lesion",
+      "metric": "AUROC",
+      "value": 0.7911267605633803,
+      "low": 0.5915862008426966,
+      "high": 0.965575387517126,
+      "positives": 10
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Lesion",
+      "metric": "Sensitivity",
+      "value": 0.5,
+      "low": 0.16666666666666666,
+      "high": 0.9,
+      "positives": 10
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Lesion",
+      "metric": "Specificity",
+      "value": 0.9338028169014084,
+      "low": 0.9155906821451849,
+      "high": 0.9514002006610008,
+      "positives": 10
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Pneumonia",
+      "metric": "AUROC",
+      "value": 0.6679930925745177,
+      "low": 0.5370307468328224,
+      "high": 0.7947180618482669,
+      "positives": 19
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Pneumonia",
+      "metric": "Sensitivity",
+      "value": 0.21052631578947367,
+      "low": 0.05263157894736842,
+      "high": 0.4167763157894736,
+      "positives": 19
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Pneumonia",
+      "metric": "Specificity",
+      "value": 0.9814550641940085,
+      "low": 0.9700854700854701,
+      "high": 0.9900860346735817,
+      "positives": 19
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Pneumothorax",
+      "metric": "AUROC",
+      "value": 0.8072620738636364,
+      "low": 0.6165763458448118,
+      "high": 0.9398134691354133,
+      "positives": 16
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Pneumothorax",
+      "metric": "Sensitivity",
+      "value": 0.375,
+      "low": 0.125,
+      "high": 0.6363636363636364,
+      "positives": 16
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Pneumothorax",
+      "metric": "Specificity",
+      "value": 0.9318181818181818,
+      "low": 0.9121813031161473,
+      "high": 0.9500731047628337,
+      "positives": 16
+    },
+    {
+      "dataset": "CheXpert",
+      "finding": "Macro average",
+      "metric": "AUROC",
+      "value": 0.8031064089247658,
+      "low": 0.7656054659104952,
+      "high": 0.8379540425189648,
+      "positives": 849
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Atelectasis",
+      "metric": "AUROC",
+      "value": 0.8709637515761919,
+      "low": 0.840867655008311,
+      "high": 0.8979060224442507,
+      "positives": 86
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Atelectasis",
+      "metric": "Sensitivity",
+      "value": 0.29069767441860467,
+      "low": 0.19994505494505496,
+      "high": 0.3924163652802893,
+      "positives": 86
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Atelectasis",
+      "metric": "Specificity",
+      "value": 0.9643102264927934,
+      "low": 0.9572390386911447,
+      "high": 0.9709103353867214,
+      "positives": 86
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Cardiomegaly",
+      "metric": "AUROC",
+      "value": 0.9021080696893276,
+      "low": 0.8856223093729065,
+      "high": 0.9156796202491196,
+      "positives": 309
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Cardiomegaly",
+      "metric": "Sensitivity",
+      "value": 0.2977346278317152,
+      "low": 0.24259192065795837,
+      "high": 0.35107755662319834,
+      "positives": 309
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Cardiomegaly",
+      "metric": "Specificity",
+      "value": 0.9836492010405053,
+      "low": 0.9790328895657128,
+      "high": 0.9881308936269395,
+      "positives": 309
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Consolidation",
+      "metric": "AUROC",
+      "value": 0.9283997646923783,
+      "low": 0.9006925048976034,
+      "high": 0.9514522233909929,
+      "positives": 96
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Consolidation",
+      "metric": "Sensitivity",
+      "value": 0.4895833333333333,
+      "low": 0.3845744680851064,
+      "high": 0.5833539603960396,
+      "positives": 96
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Consolidation",
+      "metric": "Specificity",
+      "value": 0.9738292011019284,
+      "low": 0.9682750407675003,
+      "high": 0.9796982240703206,
+      "positives": 96
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Effusion",
+      "metric": "AUROC",
+      "value": 0.9672382663036868,
+      "low": 0.9512072432591788,
+      "high": 0.9800804208149251,
+      "positives": 111
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Effusion",
+      "metric": "Sensitivity",
+      "value": 0.6846846846846847,
+      "low": 0.5959415584415584,
+      "high": 0.7663772961650016,
+      "positives": 111
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Effusion",
+      "metric": "Specificity",
+      "value": 0.9906542056074766,
+      "low": 0.9868645053027413,
+      "high": 0.9937738345215011,
+      "positives": 111
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Fibrosis",
+      "metric": "AUROC",
+      "value": 0.7871259175607002,
+      "low": 0.7569447640367764,
+      "high": 0.8170775125179884,
+      "positives": 217
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Fibrosis",
+      "metric": "Sensitivity",
+      "value": 0.4470046082949309,
+      "low": 0.3818122009569378,
+      "high": 0.5138921339563862,
+      "positives": 217
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Fibrosis",
+      "metric": "Specificity",
+      "value": 0.9033417175709666,
+      "low": 0.8921914481130632,
+      "high": 0.9139661735995188,
+      "positives": 217
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Infiltration",
+      "metric": "AUROC",
+      "value": 0.8290513139079677,
+      "low": 0.7764526415691265,
+      "high": 0.8812549351381839,
+      "positives": 58
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Infiltration",
+      "metric": "Sensitivity",
+      "value": 0.5172413793103449,
+      "low": 0.3809285714285714,
+      "high": 0.6363636363636364,
+      "positives": 58
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Infiltration",
+      "metric": "Specificity",
+      "value": 0.9367777022433719,
+      "low": 0.9276537110580739,
+      "high": 0.945982679382688,
+      "positives": 58
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Lesion",
+      "metric": "AUROC",
+      "value": 0.8643123873293844,
+      "low": 0.8337123296143102,
+      "high": 0.8931692421312816,
+      "positives": 176
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Lesion",
+      "metric": "Sensitivity",
+      "value": 0.44886363636363635,
+      "low": 0.37341561181434596,
+      "high": 0.5195052023999391,
+      "positives": 176
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Lesion",
+      "metric": "Specificity",
+      "value": 0.9582152974504249,
+      "low": 0.9507951524996394,
+      "high": 0.9661614381388791,
+      "positives": 176
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pleural thickening",
+      "metric": "AUROC",
+      "value": 0.8617629415662185,
+      "low": 0.834675612852219,
+      "high": 0.8888878970103474,
+      "positives": 169
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pleural thickening",
+      "metric": "Sensitivity",
+      "value": 0.3668639053254438,
+      "low": 0.29650624461670977,
+      "high": 0.43870967741935485,
+      "positives": 169
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pleural thickening",
+      "metric": "Specificity",
+      "value": 0.9724478982691629,
+      "low": 0.9667109425737999,
+      "high": 0.9784156735295684,
+      "positives": 169
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pneumonia",
+      "metric": "AUROC",
+      "value": 0.8764457906016969,
+      "low": 0.8500180912119149,
+      "high": 0.9000675869760808,
+      "positives": 246
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pneumonia",
+      "metric": "Sensitivity",
+      "value": 0.16666666666666666,
+      "low": 0.12494877049180328,
+      "high": 0.21804665985952534,
+      "positives": 246
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pneumonia",
+      "metric": "Specificity",
+      "value": 0.995279593318809,
+      "low": 0.9924129515699823,
+      "high": 0.9974694294142541,
+      "positives": 246
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pneumothorax",
+      "metric": "AUROC",
+      "value": 0.9699120649824875,
+      "low": 0.9498940839423041,
+      "high": 0.9871849532421566,
+      "positives": 18
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pneumothorax",
+      "metric": "Sensitivity",
+      "value": 0.3888888888888889,
+      "low": 0.16666666666666666,
+      "high": 0.6470588235294118,
+      "positives": 18
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Pneumothorax",
+      "metric": "Specificity",
+      "value": 0.994299128101945,
+      "low": 0.9913014386082302,
+      "high": 0.9969738235405774,
+      "positives": 18
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "finding": "Macro average",
+      "metric": "AUROC",
+      "value": 0.885732026821004,
+      "low": 0.8744713080517599,
+      "high": 0.8953399962724915,
+      "positives": 1486
+    }
+  ],
+  "localisation": [
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.18848167539267016,
+      "low": 0.13332512315270936,
+      "high": 0.2473145992683738,
+      "n": 191
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.07224315371694986,
+      "low": 0.0583679920083562,
+      "high": 0.08712430555664642,
+      "n": 191
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.20588235294117646,
+      "low": 0.06446572580645162,
+      "high": 0.34212406015037594,
+      "n": 34
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.04124476965879247,
+      "low": 0.025858246058998287,
+      "high": 0.0568484655324131,
+      "n": 34
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.4642857142857143,
+      "low": 0.27772988505747126,
+      "high": 0.6565104166666664,
+      "n": 28
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.21623877667173105,
+      "low": 0.17155161268196412,
+      "high": 0.26180527836266615,
+      "n": 28
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.14814814814814814,
+      "low": 0.03122632575757576,
+      "high": 0.2858294930875575,
+      "n": 27
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.08414018644998679,
+      "low": 0.05787952656162582,
+      "high": 0.10702200878519029,
+      "n": 27
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Infiltration",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 24
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Infiltration",
+      "metric": "mIoU",
+      "value": 0.022323973975405694,
+      "low": 0.011434351289102475,
+      "high": 0.03548360421948502,
+      "n": 24
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.2857142857142857,
+      "low": 0.11759049773755656,
+      "high": 0.4546401515151514,
+      "n": 28
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.03390653380351637,
+      "low": 0.01388781588782862,
+      "high": 0.06182726775924048,
+      "n": 28
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Pneumonia",
+      "metric": "Hit rate",
+      "value": 0.13793103448275862,
+      "low": 0.0,
+      "high": 0.2963213213213213,
+      "n": 29
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Pneumonia",
+      "metric": "mIoU",
+      "value": 0.05302063484297695,
+      "low": 0.01476467504901949,
+      "high": 0.10010990647500463,
+      "n": 29
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 21
+    },
+    {
+      "group": "NIH Grad-CAM",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.04985203229646864,
+      "low": 0.026496605817018407,
+      "high": 0.07743506227933726,
+      "n": 21
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.16666666666666666,
+      "low": 0.09820990896358543,
+      "high": 0.23812576312576308,
+      "n": 114
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.0695376840048959,
+      "low": 0.052084538798833735,
+      "high": 0.08675827193149982,
+      "n": 114
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.23809523809523808,
+      "low": 0.045454545454545456,
+      "high": 0.4333695652173913,
+      "n": 21
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.03829661730412297,
+      "low": 0.019916141673341034,
+      "high": 0.05962095376204026,
+      "n": 21
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.2777777777777778,
+      "low": 0.08317307692307693,
+      "high": 0.5295098039215685,
+      "n": 18
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.19381020018935763,
+      "low": 0.13817156799477331,
+      "high": 0.2402837651971896,
+      "n": 18
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.18181818181818182,
+      "low": 0.043478260869565216,
+      "high": 0.35721428571428565,
+      "n": 22
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.08158738148963281,
+      "low": 0.05537341022156279,
+      "high": 0.10992133121374775,
+      "n": 22
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Infiltration",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 20
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Infiltration",
+      "metric": "mIoU",
+      "value": 0.024559907800304957,
+      "low": 0.012190668915821034,
+      "high": 0.04075625107022753,
+      "n": 20
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.2857142857142857,
+      "low": 0.06666666666666667,
+      "high": 0.5457070707070705,
+      "n": 14
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.017870043394181894,
+      "low": 0.008128606551428148,
+      "high": 0.03132796551452263,
+      "n": 14
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Pneumonia",
+      "metric": "Hit rate",
+      "value": 0.125,
+      "low": 0.0,
+      "high": 0.42857142857142855,
+      "n": 8
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Pneumonia",
+      "metric": "mIoU",
+      "value": 0.06613387601847914,
+      "low": 0.015518063406005991,
+      "high": 0.13408979893344472,
+      "n": 8
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 11
+    },
+    {
+      "group": "NIH Grad-CAM, flagged only",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.05173738593806471,
+      "low": 0.016382079052015937,
+      "high": 0.10521916911485724,
+      "n": 11
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.3675937122128174,
+      "low": 0.33569518069372833,
+      "high": 0.4020193228044987,
+      "n": 827
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.12293848046537822,
+      "low": 0.11535503127760659,
+      "high": 0.13060928064998956,
+      "n": 827
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.6818181818181818,
+      "low": 0.6227120863007959,
+      "high": 0.7432432432432432,
+      "n": 220
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.1930492175423295,
+      "low": 0.176569787893806,
+      "high": 0.2105162412755139,
+      "n": 220
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Edema",
+      "metric": "Hit rate",
+      "value": 0.6722689075630253,
+      "low": 0.586200161637931,
+      "high": 0.747582682137501,
+      "n": 119
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Edema",
+      "metric": "mIoU",
+      "value": 0.1634635182246358,
+      "low": 0.14827765582837918,
+      "high": 0.17880063879341132,
+      "n": 119
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.16379310344827586,
+      "low": 0.11707807807807807,
+      "high": 0.2139917695473251,
+      "n": 232
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.08218119098738756,
+      "low": 0.07528611229135745,
+      "high": 0.08980940436597575,
+      "n": 232
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.11834319526627218,
+      "low": 0.07050438596491228,
+      "high": 0.16776713709677418,
+      "n": 169
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.07362787821740809,
+      "low": 0.05900727834773952,
+      "high": 0.0901737965494504,
+      "n": 169
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 16
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.051720540379134844,
+      "low": 0.026873466593541673,
+      "high": 0.0829028418915115,
+      "n": 16
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Consolidation",
+      "metric": "Hit rate",
+      "value": 0.22950819672131148,
+      "low": 0.13038819875776397,
+      "high": 0.346960958296362,
+      "n": 61
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Consolidation",
+      "metric": "mIoU",
+      "value": 0.11589374558993638,
+      "low": 0.0949601880371367,
+      "high": 0.13874008769803314,
+      "n": 61
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.2,
+      "low": 0.0,
+      "high": 0.5,
+      "n": 10
+    },
+    {
+      "group": "CheXpert Grad-CAM",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.03409419619554697,
+      "low": 0.013080324788768041,
+      "high": 0.060882880955525985,
+      "n": 10
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.15072463768115943,
+      "low": 0.11235955056179775,
+      "high": 0.18821275987351138,
+      "n": 345
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.0933059718200344,
+      "low": 0.08360354331038022,
+      "high": 0.10315202842745326,
+      "n": 345
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.13496932515337423,
+      "low": 0.08332100591715975,
+      "high": 0.18831168831168832,
+      "n": 163
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.07725834004184819,
+      "low": 0.0702932160969827,
+      "high": 0.08507497801960966,
+      "n": 163
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Consolidation",
+      "metric": "Hit rate",
+      "value": 0.29411764705882354,
+      "low": 0.14814814814814814,
+      "high": 0.4444444444444444,
+      "n": 34
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Consolidation",
+      "metric": "mIoU",
+      "value": 0.12814660358052063,
+      "low": 0.09826440087035045,
+      "high": 0.15660501854117792,
+      "n": 34
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.09009009009009009,
+      "low": 0.03999009900990099,
+      "high": 0.14285714285714285,
+      "n": 111
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.07528708551763602,
+      "low": 0.0590601284170815,
+      "high": 0.09300633004005877,
+      "n": 111
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.38461538461538464,
+      "low": 0.2,
+      "high": 0.5833333333333334,
+      "n": 26
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.24791994881143362,
+      "low": 0.19937423068613525,
+      "high": 0.2948925621216594,
+      "n": 26
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 6
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.05494431643172255,
+      "low": 0.02107261035665374,
+      "high": 0.09422020160264728,
+      "n": 6
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 5
+    },
+    {
+      "group": "CheXpert Grad-CAM, flagged only",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.021603053841541466,
+      "low": 0.0,
+      "high": 0.053114908487334564,
+      "n": 5
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.2244569589702333,
+      "low": 0.20207554764483635,
+      "high": 0.24818530205890435,
+      "n": 1243
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.07884403035205355,
+      "low": 0.07335375735622819,
+      "high": 0.08481300286874853,
+      "n": 1243
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.56957928802589,
+      "low": 0.5111629725772098,
+      "high": 0.6221590051124966,
+      "n": 309
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.19554464034642194,
+      "low": 0.18312512407709355,
+      "high": 0.20769866307098037,
+      "n": 309
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.1111111111111111,
+      "low": 0.0,
+      "high": 0.2857142857142857,
+      "n": 18
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.06844393374681133,
+      "low": 0.022636703975022737,
+      "high": 0.15564654846220036,
+      "n": 18
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.14414414414414414,
+      "low": 0.08409267912772585,
+      "high": 0.21551724137931033,
+      "n": 111
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.05663564049199396,
+      "low": 0.045655820003403416,
+      "high": 0.0699942812554233,
+      "n": 111
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.06976744186046512,
+      "low": 0.02380252100840336,
+      "high": 0.12048192771084337,
+      "n": 86
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.03203406252434959,
+      "low": 0.02256987560318667,
+      "high": 0.04273105948223075,
+      "n": 86
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Infiltration",
+      "metric": "Hit rate",
+      "value": 0.017241379310344827,
+      "low": 0.0,
+      "high": 0.05663098693759069,
+      "n": 58
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Infiltration",
+      "metric": "mIoU",
+      "value": 0.014970670852312228,
+      "low": 0.008763155851354374,
+      "high": 0.022127874688263684,
+      "n": 58
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Consolidation",
+      "metric": "Hit rate",
+      "value": 0.041666666666666664,
+      "low": 0.009345794392523364,
+      "high": 0.08695652173913043,
+      "n": 96
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Consolidation",
+      "metric": "mIoU",
+      "value": 0.03663620724802042,
+      "low": 0.025893554836172433,
+      "high": 0.04940394661821721,
+      "n": 96
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Fibrosis",
+      "metric": "Hit rate",
+      "value": 0.1336405529953917,
+      "low": 0.09009009009009009,
+      "high": 0.18181818181818182,
+      "n": 217
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Fibrosis",
+      "metric": "mIoU",
+      "value": 0.05960447732196084,
+      "low": 0.049644539570051084,
+      "high": 0.07144035041528539,
+      "n": 217
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Pleural thickening",
+      "metric": "Hit rate",
+      "value": 0.10650887573964497,
+      "low": 0.06249117231638418,
+      "high": 0.1588235294117647,
+      "n": 169
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Pleural thickening",
+      "metric": "mIoU",
+      "value": 0.02953700741208779,
+      "low": 0.024323909629924312,
+      "high": 0.03484539976130669,
+      "n": 169
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.14204545454545456,
+      "low": 0.09895148026315789,
+      "high": 0.20114942528735633,
+      "n": 176
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.025565051440851215,
+      "low": 0.02028718885347702,
+      "high": 0.0321902193714255,
+      "n": 176
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.1262135922330097,
+      "low": 0.09841277785192105,
+      "high": 0.15600173410404625,
+      "n": 515
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.06225890745172693,
+      "low": 0.055083916533803325,
+      "high": 0.06921276178697464,
+      "n": 515
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.14285714285714285,
+      "low": 0.0,
+      "high": 0.5,
+      "n": 7
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.022833284962307455,
+      "low": 0.007395291601093654,
+      "high": 0.04070233396514907,
+      "n": 7
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.07894736842105263,
+      "low": 0.02666666666666667,
+      "high": 0.14290017211703954,
+      "n": 76
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.054880705440694205,
+      "low": 0.044283572546528496,
+      "high": 0.06613366933356385,
+      "n": 76
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.04,
+      "low": 0.0,
+      "high": 0.13652597402597386,
+      "n": 25
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.00933960479889189,
+      "low": 0.005224048289474849,
+      "high": 0.013942255096648178,
+      "n": 25
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Infiltration",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 30
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Infiltration",
+      "metric": "mIoU",
+      "value": 0.020720985177689503,
+      "low": 0.011593184620040773,
+      "high": 0.03284400923471754,
+      "n": 30
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Fibrosis",
+      "metric": "Hit rate",
+      "value": 0.15463917525773196,
+      "low": 0.0891089108910891,
+      "high": 0.22807017543859648,
+      "n": 97
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Fibrosis",
+      "metric": "mIoU",
+      "value": 0.07973586043999714,
+      "low": 0.06062007929891677,
+      "high": 0.09751079350343021,
+      "n": 97
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Pleural thickening",
+      "metric": "Hit rate",
+      "value": 0.0967741935483871,
+      "low": 0.02626765083440308,
+      "high": 0.17858475479744135,
+      "n": 62
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Pleural thickening",
+      "metric": "mIoU",
+      "value": 0.028016983715256374,
+      "low": 0.021160999656830305,
+      "high": 0.03635790815301637,
+      "n": 62
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.12658227848101267,
+      "low": 0.05553652968036529,
+      "high": 0.20270270270270271,
+      "n": 79
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.023994030764493322,
+      "low": 0.01610984766782052,
+      "high": 0.03287700258260459,
+      "n": 79
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.2608695652173913,
+      "low": 0.1817772317772318,
+      "high": 0.3522894385026738,
+      "n": 92
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.1566168182538462,
+      "low": 0.1389113716362108,
+      "high": 0.1735942787277082,
+      "n": 92
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Consolidation",
+      "metric": "Hit rate",
+      "value": 0.0425531914893617,
+      "low": 0.0,
+      "high": 0.11363636363636363,
+      "n": 47
+    },
+    {
+      "group": "VinDr-CXR Grad-CAM, flagged only",
+      "finding": "Consolidation",
+      "metric": "mIoU",
+      "value": 0.02344135939006447,
+      "low": 0.014471458190166837,
+      "high": 0.03418729483266472,
+      "n": 47
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.38076923076923075,
+      "low": 0.3363958122806085,
+      "high": 0.425008270321361,
+      "n": 520
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.12833665543049236,
+      "low": 0.11807460734691967,
+      "high": 0.13873208798119063,
+      "n": 520
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.6490066225165563,
+      "low": 0.5724126588021778,
+      "high": 0.720006993006993,
+      "n": 151
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.1982452505021948,
+      "low": 0.17605571112643276,
+      "high": 0.21963819025876372,
+      "n": 151
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.18831168831168832,
+      "low": 0.13472692776799025,
+      "high": 0.25,
+      "n": 154
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.08622448962251553,
+      "low": 0.07723754371677417,
+      "high": 0.09571183978203535,
+      "n": 154
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Edema",
+      "metric": "Hit rate",
+      "value": 0.7285714285714285,
+      "low": 0.6268656716417911,
+      "high": 0.8289863960749331,
+      "n": 70
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Edema",
+      "metric": "mIoU",
+      "value": 0.167660582003849,
+      "low": 0.14780348375301006,
+      "high": 0.19065421918722297,
+      "n": 70
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.16346153846153846,
+      "low": 0.09278350515463918,
+      "high": 0.2381061598951507,
+      "n": 104
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.08515862207558798,
+      "low": 0.06784463664481828,
+      "high": 0.10520290354142477,
+      "n": 104
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.1111111111111111,
+      "low": 0.0,
+      "high": 0.37624999999999886,
+      "n": 9
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.025629828080637913,
+      "low": 0.008961418649361952,
+      "high": 0.04275499460217842,
+      "n": 9
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Consolidation",
+      "metric": "Hit rate",
+      "value": 0.08695652173913043,
+      "low": 0.0,
+      "high": 0.22727272727272727,
+      "n": 23
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Consolidation",
+      "metric": "mIoU",
+      "value": 0.09828369534967235,
+      "low": 0.06503095341683754,
+      "high": 0.1358569600068245,
+      "n": 23
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 0.0,
+      "low": 0.0,
+      "high": 0.0,
+      "n": 9
+    },
+    {
+      "group": "CheXpert Grad-CAM, benchmarked images",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.0486139682509385,
+      "low": 0.020760555373488244,
+      "high": 0.08445794594118729,
+      "n": 9
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "All findings",
+      "metric": "Hit rate",
+      "value": 0.8884615384615384,
+      "low": 0.8620657488419968,
+      "high": 0.9150653254491836,
+      "n": 520
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "All findings",
+      "metric": "mIoU",
+      "value": 0.3656142450820608,
+      "low": 0.3460576951890511,
+      "high": 0.3859133350290172,
+      "n": 520
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Cardiomegaly",
+      "metric": "Hit rate",
+      "value": 0.9867549668874173,
+      "low": 0.9655051844707018,
+      "high": 1.0,
+      "n": 151
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Cardiomegaly",
+      "metric": "mIoU",
+      "value": 0.7284348740595136,
+      "low": 0.7098192834265421,
+      "high": 0.7454141040393959,
+      "n": 151
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Atelectasis",
+      "metric": "Hit rate",
+      "value": 0.922077922077922,
+      "low": 0.8785666023166023,
+      "high": 0.9652777777777778,
+      "n": 154
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Atelectasis",
+      "metric": "mIoU",
+      "value": 0.125447381180663,
+      "low": 0.11259077223214073,
+      "high": 0.14000395376463945,
+      "n": 154
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Edema",
+      "metric": "Hit rate",
+      "value": 0.8571428571428571,
+      "low": 0.7719172932330827,
+      "high": 0.9333552631578947,
+      "n": 70
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Edema",
+      "metric": "mIoU",
+      "value": 0.3448031875936459,
+      "low": 0.31681918744633525,
+      "high": 0.3727167307024762,
+      "n": 70
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Effusion",
+      "metric": "Hit rate",
+      "value": 0.7692307692307693,
+      "low": 0.6868579866461222,
+      "high": 0.8484848484848485,
+      "n": 104
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Effusion",
+      "metric": "mIoU",
+      "value": 0.2282662226440306,
+      "low": 0.19574045767517126,
+      "high": 0.2596865870706179,
+      "n": 104
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Lesion",
+      "metric": "Hit rate",
+      "value": 0.8888888888888888,
+      "low": 0.7,
+      "high": 1.0,
+      "n": 9
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Lesion",
+      "metric": "mIoU",
+      "value": 0.4897132918775457,
+      "low": 0.3251462047044747,
+      "high": 0.6785419681740835,
+      "n": 9
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Consolidation",
+      "metric": "Hit rate",
+      "value": 0.6086956521739131,
+      "low": 0.391304347826087,
+      "high": 0.8002380952380951,
+      "n": 23
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Consolidation",
+      "metric": "mIoU",
+      "value": 0.18456801990837549,
+      "low": 0.12153557857327794,
+      "high": 0.24446346914130038,
+      "n": 23
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Pneumothorax",
+      "metric": "Hit rate",
+      "value": 1.0,
+      "low": 1.0,
+      "high": 1.0,
+      "n": 9
+    },
+    {
+      "group": "CheXpert human benchmark",
+      "finding": "Pneumothorax",
+      "metric": "mIoU",
+      "value": 0.4753833762820028,
+      "low": 0.3523973772413526,
+      "high": 0.5693456293183992,
+      "n": 9
+    }
+  ],
+  "enrichment_shift": [
+    {
+      "external": "CheXpert",
+      "finding": "All findings",
+      "nih_median": 0.9930065870285034,
+      "external_median": 1.195696234703064,
+      "difference": 0.20268964767456055,
+      "low": 0.17248279005289077,
+      "high": 0.23428480029106138,
+      "p_value": 0.0,
+      "n_nih": 19860,
+      "n_external": 679
+    },
+    {
+      "external": "CheXpert",
+      "finding": "Atelectasis",
+      "nih_median": 1.1746220588684082,
+      "external_median": 1.139578104019165,
+      "difference": -0.035043954849243164,
+      "low": -0.07611331045627594,
+      "high": -0.006272590160369877,
+      "p_value": 0.00152901082765311,
+      "n_nih": 3136,
+      "n_external": 263
+    },
+    {
+      "external": "CheXpert",
+      "finding": "Cardiomegaly",
+      "nih_median": 1.370312213897705,
+      "external_median": 1.3314406871795654,
+      "difference": -0.03887152671813965,
+      "low": -0.12103430926799774,
+      "high": 0.0640970706939697,
+      "p_value": 0.33409684896469116,
+      "n_nih": 884,
+      "n_external": 28
+    },
+    {
+      "external": "CheXpert",
+      "finding": "Consolidation",
+      "nih_median": 1.0394457578659058,
+      "external_median": 1.0904237031936646,
+      "difference": 0.05097794532775879,
+      "low": 2.1398067474372624e-06,
+      "high": 0.09604305773973464,
+      "p_value": 0.08647729456424713,
+      "n_nih": 1443,
+      "n_external": 111
+    },
+    {
+      "external": "CheXpert",
+      "finding": "Effusion",
+      "nih_median": 1.5246857404708862,
+      "external_median": 1.5287902355194092,
+      "difference": 0.004104495048522949,
+      "low": -0.06258816421031951,
+      "high": 0.04940186142921447,
+      "p_value": 0.9912723302841187,
+      "n_nih": 2973,
+      "n_external": 154
+    },
+    {
+      "external": "CheXpert",
+      "finding": "Lesion",
+      "nih_median": 0.9236556887626648,
+      "external_median": 1.1807996034622192,
+      "difference": 0.25714391469955444,
+      "low": 0.14892759621143342,
+      "high": 0.30962187349796294,
+      "p_value": 1.8463833240112137e-10,
+      "n_nih": 1817,
+      "n_external": 52
+    },
+    {
+      "external": "CheXpert",
+      "finding": "Pneumothorax",
+      "nih_median": 1.155649185180664,
+      "external_median": 1.233121633529663,
+      "difference": 0.07747244834899902,
+      "low": -0.024484720826148984,
+      "high": 0.1983063220977783,
+      "p_value": 0.20702241361141205,
+      "n_nih": 1204,
+      "n_external": 54
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "All findings",
+      "nih_median": 0.9930065870285034,
+      "external_median": 1.028136968612671,
+      "difference": 0.03513038158416748,
+      "low": 0.007104733586311341,
+      "high": 0.07621370553970336,
+      "p_value": 0.15768331289291382,
+      "n_nih": 19860,
+      "n_external": 1502
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Atelectasis",
+      "nih_median": 1.1746220588684082,
+      "external_median": 1.126218557357788,
+      "difference": -0.04840350151062012,
+      "low": -0.0944020539522171,
+      "high": 0.016164430975913982,
+      "p_value": 0.20865778625011444,
+      "n_nih": 3136,
+      "n_external": 129
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Cardiomegaly",
+      "nih_median": 1.370312213897705,
+      "external_median": 1.4027891159057617,
+      "difference": 0.03247690200805664,
+      "low": -0.08474876880645751,
+      "high": 0.10428808629512785,
+      "p_value": 0.7960832715034485,
+      "n_nih": 884,
+      "n_external": 136
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Consolidation",
+      "nih_median": 1.0394457578659058,
+      "external_median": 0.8510261178016663,
+      "difference": -0.1884196400642395,
+      "low": -0.23061885982751845,
+      "high": -0.12547220438718795,
+      "p_value": 1.682096649469056e-11,
+      "n_nih": 1443,
+      "n_external": 123
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Effusion",
+      "nih_median": 1.5246857404708862,
+      "external_median": 1.3629528284072876,
+      "difference": -0.16173291206359863,
+      "low": -0.2381863921880722,
+      "high": -0.03454042971134187,
+      "p_value": 0.002455360721796751,
+      "n_nih": 2973,
+      "n_external": 103
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Fibrosis",
+      "nih_median": 1.0324578285217285,
+      "external_median": 1.131240725517273,
+      "difference": 0.09878289699554443,
+      "low": 0.03303491175174713,
+      "high": 0.14946879595518112,
+      "p_value": 2.975933284687926e-06,
+      "n_nih": 678,
+      "n_external": 366
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Infiltration",
+      "nih_median": 0.5758463740348816,
+      "external_median": 0.42575910687446594,
+      "difference": -0.15008726716041565,
+      "low": -0.17700598612427712,
+      "high": -0.0831353023648262,
+      "p_value": 2.2221231744858766e-15,
+      "n_nih": 4838,
+      "n_external": 216
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Lesion",
+      "nih_median": 0.9236556887626648,
+      "external_median": 1.0148468017578125,
+      "difference": 0.0911911129951477,
+      "low": 0.05932999700307846,
+      "high": 0.14208157062530516,
+      "p_value": 4.3571035348577425e-06,
+      "n_nih": 1817,
+      "n_external": 197
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Pleural thickening",
+      "nih_median": 1.1085405349731445,
+      "external_median": 1.0762752294540405,
+      "difference": -0.032265305519104004,
+      "low": -0.11092624962329864,
+      "high": 0.04222182035446167,
+      "p_value": 0.10552052408456802,
+      "n_nih": 900,
+      "n_external": 140
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Pneumonia",
+      "nih_median": 0.6066500544548035,
+      "external_median": 0.4588620066642761,
+      "difference": -0.14778804779052734,
+      "low": -0.22179703861474992,
+      "high": -0.07710747271776201,
+      "p_value": 2.144350830235453e-08,
+      "n_nih": 775,
+      "n_external": 54
+    },
+    {
+      "external": "VinDr-CXR",
+      "finding": "Pneumothorax",
+      "nih_median": 1.155649185180664,
+      "external_median": 1.317206859588623,
+      "difference": 0.16155767440795898,
+      "low": -0.20981501191854476,
+      "high": 0.3092340886592865,
+      "p_value": 0.5080973505973816,
+      "n_nih": 1204,
+      "n_external": 24
+    }
+  ],
+  "failure_detection": [
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Confidence margin",
+      "metric": "AUROC_f",
+      "value": 0.6598723414757901,
+      "low": 0.6468728107824394,
+      "high": 0.6725544278499012,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Confidence margin",
+      "metric": "AURC",
+      "value": 0.523436775067081,
+      "low": 0.5026742504092476,
+      "high": 0.5431285051390644,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "TTA agreement",
+      "metric": "AUROC_f",
+      "value": 0.5792277379628131,
+      "low": 0.5672747362756491,
+      "high": 0.5922787062747529,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "TTA agreement",
+      "metric": "AURC",
+      "value": 0.6005805635904402,
+      "low": 0.5826943580342151,
+      "high": 0.6182897404118907,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomical enrichment",
+      "metric": "AUROC_f",
+      "value": 0.5243965430814754,
+      "low": 0.5088022161382313,
+      "high": 0.5393753712440118,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomical enrichment",
+      "metric": "AURC",
+      "value": 0.6316996386746937,
+      "low": 0.6110920160502762,
+      "high": 0.6503593839491284,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA",
+      "metric": "AUROC_f",
+      "value": 0.6609085158871466,
+      "low": 0.6481370770308221,
+      "high": 0.6736930046590646,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA",
+      "metric": "AURC",
+      "value": 0.5225445746576516,
+      "low": 0.5021054031884683,
+      "high": 0.5419258708364678,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AUROC_f",
+      "value": 0.6610781264887564,
+      "low": 0.6485664693352907,
+      "high": 0.6740366632849442,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AURC",
+      "value": 0.5213198732094648,
+      "low": 0.5007038838053192,
+      "high": 0.540862171262716,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomy added",
+      "metric": "Delta AUROC_f",
+      "value": 0.00016961060160980423,
+      "low": -0.002254562694642695,
+      "high": 0.002429802376544468,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomy added",
+      "metric": "Delta AURC",
+      "value": -0.0012247014481867602,
+      "low": -0.0022901942726718306,
+      "high": -2.2823979443368178e-05,
+      "n": 9603,
+      "failures": 6267
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Confidence margin",
+      "metric": "AUROC_f",
+      "value": 0.6561778240861336,
+      "low": 0.6175368933438985,
+      "high": 0.6945286745196938,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Confidence margin",
+      "metric": "AURC",
+      "value": 0.3553300738028445,
+      "low": 0.31027323216262226,
+      "high": 0.40117274215381243,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "TTA agreement",
+      "metric": "AUROC_f",
+      "value": 0.6119736042372146,
+      "low": 0.5727167114794545,
+      "high": 0.6501961619351222,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "TTA agreement",
+      "metric": "AURC",
+      "value": 0.4062394761045016,
+      "low": 0.3511315185633165,
+      "high": 0.4561558834394843,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomical enrichment",
+      "metric": "AUROC_f",
+      "value": 0.5363723191803422,
+      "low": 0.4935983971512524,
+      "high": 0.5821278939280831,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomical enrichment",
+      "metric": "AURC",
+      "value": 0.4484705234087807,
+      "low": 0.39138837005752863,
+      "high": 0.5041944836477142,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA",
+      "metric": "AUROC_f",
+      "value": 0.6636363636363637,
+      "low": 0.6257127892285237,
+      "high": 0.7030804385860652,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA",
+      "metric": "AURC",
+      "value": 0.35201946024749464,
+      "low": 0.306138747579083,
+      "high": 0.3979275348937379,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AUROC_f",
+      "value": 0.6684119128245203,
+      "low": 0.6292770801801407,
+      "high": 0.7069091535976483,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AURC",
+      "value": 0.3481767836097453,
+      "low": 0.30265593282790193,
+      "high": 0.39381727823605833,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomy added",
+      "metric": "Delta AUROC_f",
+      "value": 0.0047755491881565915,
+      "low": -0.0004069337839385678,
+      "high": 0.010449120112878851,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomy added",
+      "metric": "Delta AURC",
+      "value": -0.0038426766377493426,
+      "low": -0.006994668217526206,
+      "high": -0.0007667646964109236,
+      "n": 679,
+      "failures": 330
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Confidence margin",
+      "metric": "AUROC_f",
+      "value": 0.6811071227584529,
+      "low": 0.654689887889817,
+      "high": 0.7092108957646944,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Confidence margin",
+      "metric": "AURC",
+      "value": 0.48505799304212466,
+      "low": 0.4516127830636834,
+      "high": 0.5178412181238506,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "TTA agreement",
+      "metric": "AUROC_f",
+      "value": 0.5497779366358921,
+      "low": 0.5204038931762038,
+      "high": 0.5789088592995234,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "TTA agreement",
+      "metric": "AURC",
+      "value": 0.586727559552581,
+      "low": 0.5535173928217942,
+      "high": 0.6193006488199929,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomical enrichment",
+      "metric": "AUROC_f",
+      "value": 0.5215009810333552,
+      "low": 0.49109414632492293,
+      "high": 0.5504305980684521,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomical enrichment",
+      "metric": "AURC",
+      "value": 0.609246832192464,
+      "low": 0.575649773077426,
+      "high": 0.6481484104233051,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA",
+      "metric": "AUROC_f",
+      "value": 0.6763217333110256,
+      "low": 0.648112098962297,
+      "high": 0.7054021807589588,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA",
+      "metric": "AURC",
+      "value": 0.48602696804626816,
+      "low": 0.4528644035728504,
+      "high": 0.5194358841146028,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AUROC_f",
+      "value": 0.6780461465922399,
+      "low": 0.649862851405291,
+      "high": 0.706346360288389,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AURC",
+      "value": 0.4829455164660829,
+      "low": 0.4510465956947118,
+      "high": 0.5170672370678953,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomy added",
+      "metric": "Delta AUROC_f",
+      "value": 0.0017244132812143098,
+      "low": -0.003740950151791586,
+      "high": 0.006765482162461095,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Flagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomy added",
+      "metric": "Delta AURC",
+      "value": -0.003081451580185246,
+      "low": -0.005671209583375994,
+      "high": -0.0005346423787876226,
+      "n": 1502,
+      "failures": 946
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Confidence margin",
+      "metric": "AUROC_f",
+      "value": 0.8166195174743747,
+      "low": 0.8092909503782961,
+      "high": 0.8243411456754065,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Confidence margin",
+      "metric": "AURC",
+      "value": 0.008990109398126144,
+      "low": 0.008347439594501337,
+      "high": 0.009737052424156454,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "TTA agreement",
+      "metric": "AUROC_f",
+      "value": 0.7194684032898602,
+      "low": 0.712128311649122,
+      "high": 0.7278141722354252,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "TTA agreement",
+      "metric": "AURC",
+      "value": 0.015309410122326698,
+      "low": 0.014309896567671928,
+      "high": 0.01634834635929545,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomical enrichment",
+      "metric": "AUROC_f",
+      "value": 0.5824847050560114,
+      "low": 0.5712030728762421,
+      "high": 0.5933452152108994,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomical enrichment",
+      "metric": "AURC",
+      "value": 0.02603166397450643,
+      "low": 0.024425513156454113,
+      "high": 0.027907318181932244,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA",
+      "metric": "AUROC_f",
+      "value": 0.818322879417841,
+      "low": 0.8110808406262401,
+      "high": 0.8259101261035511,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA",
+      "metric": "AURC",
+      "value": 0.008909646116184188,
+      "low": 0.008268858618169983,
+      "high": 0.009646841879829888,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AUROC_f",
+      "value": 0.818707277993441,
+      "low": 0.8113831606019462,
+      "high": 0.8263873716015608,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AURC",
+      "value": 0.008877776128358005,
+      "low": 0.008237238930499475,
+      "high": 0.009604588159312059,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomy added",
+      "metric": "Delta AUROC_f",
+      "value": 0.0003843985756000201,
+      "low": -0.00024908559009684803,
+      "high": 0.001065362172538098,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "NIH evaluation",
+      "score": "Anatomy added",
+      "metric": "Delta AURC",
+      "value": -3.1869987826182306e-05,
+      "low": -6.862312639996024e-05,
+      "high": 4.151110772610852e-06,
+      "n": 120333,
+      "failures": 4144
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Confidence margin",
+      "metric": "AUROC_f",
+      "value": 0.5846086007421961,
+      "low": 0.5571334606964234,
+      "high": 0.6144958513842996,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Confidence margin",
+      "metric": "AURC",
+      "value": 0.07549880777444502,
+      "low": 0.06410504511383933,
+      "high": 0.08698997548280885,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "TTA agreement",
+      "metric": "AUROC_f",
+      "value": 0.5697149094084261,
+      "low": 0.5414770514960988,
+      "high": 0.5963639868321411,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "TTA agreement",
+      "metric": "AURC",
+      "value": 0.07818102095684219,
+      "low": 0.06640730651249054,
+      "high": 0.09164102896775501,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomical enrichment",
+      "metric": "AUROC_f",
+      "value": 0.40308207814887576,
+      "low": 0.3766767886673114,
+      "high": 0.42876839142154743,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomical enrichment",
+      "metric": "AURC",
+      "value": 0.12262006631084953,
+      "low": 0.10775839473968474,
+      "high": 0.13824176143642955,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA",
+      "metric": "AUROC_f",
+      "value": 0.5849731499672561,
+      "low": 0.5567442260529254,
+      "high": 0.6147361277895955,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA",
+      "metric": "AURC",
+      "value": 0.07540604721127551,
+      "low": 0.06413745274616636,
+      "high": 0.08681963117729409,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AUROC_f",
+      "value": 0.5925335079676926,
+      "low": 0.5645237094199067,
+      "high": 0.6228108766440066,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AURC",
+      "value": 0.07409881982716968,
+      "low": 0.06279966153753075,
+      "high": 0.08537746764432501,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomy added",
+      "metric": "Delta AUROC_f",
+      "value": 0.007560358000436418,
+      "low": 0.005676242833342182,
+      "high": 0.009421178734532123,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "CheXpert",
+      "score": "Anatomy added",
+      "metric": "Delta AURC",
+      "value": -0.0013072273841058385,
+      "low": -0.0017812758413157516,
+      "high": -0.0008245159503995508,
+      "n": 5081,
+      "failures": 500
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Confidence margin",
+      "metric": "AUROC_f",
+      "value": 0.8144770017034686,
+      "low": 0.8024939179072024,
+      "high": 0.8257308010296519,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Confidence margin",
+      "metric": "AURC",
+      "value": 0.006596970747331026,
+      "low": 0.0058751976520545375,
+      "high": 0.007400126505842117,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "TTA agreement",
+      "metric": "AUROC_f",
+      "value": 0.7023499543155302,
+      "low": 0.6852852974823793,
+      "high": 0.7200030970009887,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "TTA agreement",
+      "metric": "AURC",
+      "value": 0.013173131751610905,
+      "low": 0.011711377102344055,
+      "high": 0.014853151942260136,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomical enrichment",
+      "metric": "AUROC_f",
+      "value": 0.5188627203960626,
+      "low": 0.49802210376576955,
+      "high": 0.5381061528379973,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomical enrichment",
+      "metric": "AURC",
+      "value": 0.027256442417326884,
+      "low": 0.024673975279810648,
+      "high": 0.030241376553200496,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA",
+      "metric": "AUROC_f",
+      "value": 0.8165748808598922,
+      "low": 0.8040245919897726,
+      "high": 0.8278181621357382,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA",
+      "metric": "AURC",
+      "value": 0.0065332665843288425,
+      "low": 0.005828825803639157,
+      "high": 0.007335176082241557,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AUROC_f",
+      "value": 0.8193218267181972,
+      "low": 0.8071461875128777,
+      "high": 0.8305017324992475,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Margin + TTA + anatomy",
+      "metric": "AURC",
+      "value": 0.0064366106708351025,
+      "low": 0.005711083177852659,
+      "high": 0.007239660836322294,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomy added",
+      "metric": "Delta AUROC_f",
+      "value": 0.002746945858305039,
+      "low": 0.0010764980724933925,
+      "high": 0.004551956688252731,
+      "n": 34486,
+      "failures": 933
+    },
+    {
+      "scope": "Unflagged findings",
+      "partition": "VinDr-CXR",
+      "score": "Anatomy added",
+      "metric": "Delta AURC",
+      "value": -9.665591349374003e-05,
+      "low": -0.0001729061712332661,
+      "high": -3.0970401307849077e-05,
+      "n": 34486,
+      "failures": 933
+    }
+  ],
+  "combiner_coefficients": [
+    {
+      "scope": "Flagged findings",
+      "model": "Margin + TTA",
+      "abs_margin": 0.5333963262487337,
+      "tta_gap": -0.05304203353714207
+    },
+    {
+      "scope": "Flagged findings",
+      "model": "Margin + TTA + anatomy",
+      "abs_margin": 0.5337902303035816,
+      "tta_gap": -0.05717942175066001,
+      "region_enrichment": 0.06588358000170129
+    },
+    {
+      "scope": "Unflagged findings",
+      "model": "Margin + TTA",
+      "abs_margin": 1.5669962411329217,
+      "tta_gap": -0.07277534351862337
+    },
+    {
+      "scope": "Unflagged findings",
+      "model": "Margin + TTA + anatomy",
+      "abs_margin": 1.6369243104144733,
+      "tta_gap": -0.05327290757447601,
+      "region_enrichment": -0.12263677639687123
+    }
+  ],
+  "randomisation": [
+    {
+      "stage": "Trained model (reference)",
+      "mean_spearman": 1.0,
+      "low": 0.9999999999999999,
+      "high": 1.0,
+      "n": 200
+    },
+    {
+      "stage": "Classifier randomised",
+      "mean_spearman": -0.12517472414067046,
+      "low": -0.5696498255516872,
+      "high": 0.3485512303869874,
+      "n": 200
+    },
+    {
+      "stage": "+ Final transformer block randomised",
+      "mean_spearman": 0.1537590901897798,
+      "low": -0.2836637147216746,
+      "high": 0.6714256253673977,
+      "n": 200
+    }
+  ],
+  "cross_method": [
+    {
+      "dataset": "NIH",
+      "method": "Grad-CAM",
+      "auroc_f": 0.5316221580656803,
+      "low": 0.48971019376996305,
+      "high": 0.5729320888972675,
+      "rho_gradcam": 1.0,
+      "n": 1006
+    },
+    {
+      "dataset": "NIH",
+      "method": "LIME",
+      "auroc_f": 0.469595813785637,
+      "low": 0.43025401535272445,
+      "high": 0.5111278420658104,
+      "rho_gradcam": 0.16269790879881893,
+      "n": 1006
+    },
+    {
+      "dataset": "NIH",
+      "method": "SHAP",
+      "auroc_f": 0.48585348249729343,
+      "low": 0.4425068816530224,
+      "high": 0.5268070822424193,
+      "rho_gradcam": 0.09588282750693809,
+      "n": 1006
+    },
+    {
+      "dataset": "CheXpert",
+      "method": "Grad-CAM",
+      "auroc_f": 0.5363723191803422,
+      "low": 0.4935983971512524,
+      "high": 0.5821278939280831,
+      "rho_gradcam": 1.0,
+      "n": 679
+    },
+    {
+      "dataset": "CheXpert",
+      "method": "LIME",
+      "auroc_f": 0.5292350438482244,
+      "low": 0.483572492949918,
+      "high": 0.5738378659745805,
+      "rho_gradcam": 0.12102162824805134,
+      "n": 679
+    },
+    {
+      "dataset": "CheXpert",
+      "method": "SHAP",
+      "auroc_f": 0.5441521229486845,
+      "low": 0.5014482875799674,
+      "high": 0.5851267440008598,
+      "rho_gradcam": 0.16467732426425546,
+      "n": 679
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "method": "Grad-CAM",
+      "auroc_f": 0.5303248776145972,
+      "low": 0.48904331092258757,
+      "high": 0.5695104279457656,
+      "rho_gradcam": 1.0,
+      "n": 850
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "method": "LIME",
+      "auroc_f": 0.5037768877021214,
+      "low": 0.46290056196845136,
+      "high": 0.5438314020633662,
+      "rho_gradcam": 0.07892245566307725,
+      "n": 850
+    },
+    {
+      "dataset": "VinDr-CXR",
+      "method": "SHAP",
+      "auroc_f": 0.5424417742174752,
+      "low": 0.5030506600131116,
+      "high": 0.5832819604653637,
+      "rho_gradcam": 0.22219981090142768,
+      "n": 850
+    }
+  ]
+}

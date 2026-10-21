@@ -1,0 +1,19 @@
+# Main environment, Python 3.12: every step except 5
+tensorflow[and-cuda]==2.18.0   # tensorflow==2.18.0 on a machine without an NVIDIA GPU
+keras==3.7.0
+keras-hub==0.21.1
+numpy==2.0.2
+pandas==3.0.5
+scipy==1.18.0
+scikit-learn==1.9.0
+scikit-image==0.26.0
+opencv-python==4.10.0.84
+shap==0.52.0
+lime==0.2.0.1
+pydicom==3.0.2
+pylibjpeg==2.1.0
+pylibjpeg-openjpeg==2.6.0
+pycocotools==2.0.11
+pillow==12.3.0
+matplotlib==3.11.1
+ipykernel
